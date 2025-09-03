@@ -1,3 +1,4 @@
+# Experiment 2
 1. NORMALIZATION PROBLEM
 
 The first step was to import numpy as np so that certain codes can be done.
